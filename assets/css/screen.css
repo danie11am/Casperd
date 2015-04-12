@@ -879,7 +879,7 @@ body.nav-opened .nav {
     color: rgba(255,255,255,0.8);
 }
 
-.page-description-links {
+.page-description-links, .page-description-links a {
     margin: 0;
     font-size: 1.5rem;
     line-height: 1.5em;
